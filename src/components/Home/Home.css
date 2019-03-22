@@ -1,0 +1,10 @@
+.movie-home{
+    /*background: #324550;*/
+    /* background: #0f0c29;  /* fallback for old browsers */
+/*background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);  /* Chrome 10-25, Safari 5.1-6 */
+/*background: linear-gradient(to right, #24243e, #302b63, #0f0c29); W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background-image: linear-gradient(to right bottom, #1c262e, #1f2a33, #222f38, #26333d, #293842, #2a3944, #2b3b45, #2c3c47, #2b3b46, #2a3a44, #2a3943, #293842);
+
+
+}

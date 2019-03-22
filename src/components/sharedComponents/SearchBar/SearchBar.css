@@ -1,0 +1,41 @@
+.search-box {
+    position: relative;
+    width: 250px;
+    
+    
+}
+
+.search { 
+    padding:10px 15px 10px 30px;
+    margin:5px; 
+    position: absolute;  
+}
+
+.fa {
+    z-index: 10;
+    position: absolute;
+    right: 55px;
+    top: 6px;
+    color: #ACA4A2;
+}
+.rounded { 
+    border-radius:15px; 
+    -moz-border-radius:15px; 
+    -webkit-border-radius:15px; 
+}
+
+input[type=search] {
+    position:relative; 
+    cursor: pointer;
+    outline: none;
+
+}
+input[type=search]{
+    border:1px solid #2a2e31;
+    background-color:#2d3035;
+    color:#505358;
+}
+input[type=search]:focus {
+    color: #fff;
+}
+
